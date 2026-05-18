@@ -11,10 +11,6 @@ Computers can handle repetitive and mundane tasks without getting tired. In indu
 
 4. Global Connectivity and Communication
 Through the internet, computers connect people across the globe. Emails, video conferencing, and instant messaging allow for real-time collaboration, making remote work and long-distance relationships effortless.
-
-5. Learning and Entertainment
-Computers are incredible tools for education, offering access to online courses, research papers, and interactive learning. They also serve as a hub for entertainment, including gaming, streaming movies, and digital art.
-
 Disadvantages of Computers
 1. Health Issues
 Prolonged computer use can lead to several physical health problems due to poor posture and repetitive motions.
